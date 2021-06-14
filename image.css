@@ -1,0 +1,49 @@
+.search {
+  position: absolute;
+  top: 20px;
+  right: 70px;
+  font-size: 12px;
+  font-family: sans-serif;
+  color: black;
+  text-decoration: none;
+
+}
+
+.googlelogo {
+  max-width: 275px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  margin-top: -90px;
+}
+
+input[type=text] {
+  background-color: white;
+  font-size: 15px;
+  padding-left: 20px;
+  border-radius: 30px;
+  border: 1px solid #e7e7e7;
+  outline: none;
+  width: 480px;
+  height: 42px;
+  max-width: 700px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+input[type=text]:hover {
+  border: 2px solid #e7e7e7;
+  color: #000;
+}
+
+.images {
+  margin: auto;
+  margin-top: 280px;
+  margin-left: 210px;
+  font-family: sans-serif;
+  font-size: 15px;
+  color: blue;
+}

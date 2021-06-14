@@ -1,0 +1,112 @@
+body {
+  margin: 0;
+}
+
+header {
+  padding: 14px;
+  background-color: #e7e7e7;
+}
+
+.logo {
+  max-width: 90px;
+}
+
+.adv {
+  font-family: sans-serif;
+  color: red;
+  padding-left: 5px;
+}
+
+.box {
+  border-bottom: 1px solid #e7e7e7;
+  background-color: white;
+  padding: 25px;
+  font-size: 20px;
+}
+
+.search {
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  font-family: sans-serif;
+  font-size: 12px;
+  color: black;
+  text-decoration: none;
+}
+
+.main {
+  margin-top: 45px;
+  margin-left: 45px;
+  font-family: sans-serif;
+  font-size: 16px;
+  border-bottom: 1px solid #e7e7e7;
+  padding-bottom: 30px;
+}
+
+#txt1 {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-size: 13px;
+}
+
+#input1 {
+  width: 500px;
+  height: 7px;
+  margin-top: 22px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+#txt2 {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-size: 13px;
+}
+
+#input2 {
+  width: 500px;
+  height: 7px;
+  margin-top: 22px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+#txt3 {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-size: 13px;
+}
+
+#input3 {
+  width: 500px;
+  height: 7px;
+  margin-top: 22px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+#txt4 {
+  position: absolute;
+  margin-top: 30px;
+  margin-left: 15px;
+  font-size: 13px;
+}
+
+#input4 {
+  width: 500px;
+  height: 7px;
+  margin-top: 22px;
+  padding: 10px;
+  margin-left: 200px;
+}
+
+button[type=submit] {
+  width: 150px;
+  height: 40px;
+  font-size: 15px;
+  margin-top: 20px;
+  margin-left: 535px;
+}
