@@ -35,7 +35,7 @@ input[type=text] {
 }
 
 input[type=text]:hover {
-  border: 2px solid #e7e7e7;
+  border: 1px solid #C8C8C8;
   color: #000;
 }
 
